@@ -191,7 +191,27 @@ if($_SESSION['customer_sid'] == session_id()) {
         </ul>
         <a href="#" data-activates="slide-out" class="sidebar-collapse btn-floating btn-medium waves-effect waves-light hide-on-large-only cyan"><i class="mdi-navigation-menu"></i></a>
         </aside>
-      <
+      
+	       <section class="menu">
+		        <div class="menu-item">
+		            <img src="https://www.foodiesfeed.com/wp-content/uploads/2020/07/meat-burger-tomato-onion-lettuce-jalapenos-side-view.jpg" alt="Meat Burger with Jalapenos">
+		            <h3>Spicy Jalapeno Burger</h3>
+		            <p>For those who love a little extra kick!</p>
+		        </div>
+		        <div class="menu-item">
+		            <img src="https://www.foodiesfeed.com/wp-content/uploads/2020/07/burger-with-cheddar-bacon-and-guacamole.jpg" alt="Cheddar, Bacon, and Guacamole Burger">
+		            <h3>Bacon & Guacamole Burger</h3>
+		            <p>Our signature burger with cheddar, crispy bacon, and creamy guac!</p>
+		        </div>
+		    </section>
+		
+		    <!-- Signature Section -->
+		    <section class="signature">
+		        <h2 class="section-title">Our Signature Burger</h2>
+		        <img src="https://www.foodiesfeed.com/wp-content/uploads/2020/07/burger-with-cheddar-bacon-and-guacamole.jpg" alt="Signature Bacon Guac Burger">
+		        <p>Try our most popular burger – a perfect blend of flavors!</p>
+	      </section>
+	      
       <section id="content">
 
         <div id="breadcrumbs-wrapper">
